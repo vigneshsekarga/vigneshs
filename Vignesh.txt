@@ -1,0 +1,4 @@
+mkdir vignesh
+cd vignesh
+git clone https://github.com/vigneshsekarga/vigneshs.git
+cd platform_fw
